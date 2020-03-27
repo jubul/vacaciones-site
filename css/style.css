@@ -1,0 +1,54 @@
+h1,h3 {
+    font-family: 'Raleway',sans-serif;
+}
+.main {
+    background-color: white;
+    text-shadow: 2px 2px;
+    color: black;
+    width: 50%;
+    text-align: center;
+    float: center;
+    margin: auto;
+}
+a,h4,h5,ul,ol {
+    font-family: 'Montserrat',sans-serif;
+}
+body {
+    background-color: rgb(167, 156, 156);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    background-size: 60%;
+    margin: auto;
+    width: 60%;
+}
+.modal {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.5);  
+}
+.asado {
+    width: 500px;
+}
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+ .ul li {
+    display: inline;
+    float: center;
+  }
+.ul li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+}
+.ul li a:hover {
+        background-color: #111;
+      
+}
